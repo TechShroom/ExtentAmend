@@ -1,0 +1,14 @@
+[{
+  "modid": "${modid}",
+  "name": "ExtentAmend",
+  "description": "Literally WorldEdit.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/TechShroom/ExtentAmend",
+  "updateUrl": "",
+  "authorList": ["kenzierocks"],
+  "credits": "sk89q, wizjany, and DarkArc for creating & maintaining WorldEdit",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
